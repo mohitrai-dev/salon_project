@@ -13,6 +13,9 @@
     .banner{
         margin-top: 66px;
     }
+    .banner img{
+        height: auto;
+    }
 
     .toggle-btn{
         display: block;
